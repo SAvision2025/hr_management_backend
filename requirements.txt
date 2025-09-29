@@ -1,0 +1,16 @@
+Flask
+pymongo
+flask-cors
+gunicorn
+uvicorn
+fastapi
+requests
+numpy
+scipy
+matplotlib
+pandas
+Werkzeug
+pytz
+python-dateutil
+pydantic
+Flask-APScheduler
